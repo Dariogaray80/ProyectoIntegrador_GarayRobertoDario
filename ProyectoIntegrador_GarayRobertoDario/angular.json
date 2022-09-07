@@ -103,5 +103,8 @@
       }
     }
   },
-  "defaultProject": "ProyectoIntegrador_GarayRobertoDario"
+  "defaultProject": "ProyectoIntegrador_GarayRobertoDario",
+  "cli": {
+    "analytics": false
+  }
 }
